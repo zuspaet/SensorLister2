@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SensorLister2</string>
+    <string name="ViewInfo">ViewInfo</string>
+    <string name="tag_Sensor">Sensor</string>
+    <string name="tag_available">Available</string>
+    <string name="tag_Info">Info</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="AccStatus">Status</string>
+</resources>
